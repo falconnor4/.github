@@ -39,7 +39,6 @@
 
 ###
 
-<img align="right" height="140" src="https://github.com/falconnor4/.github/blob/main/assets/lambda.gif?raw=true"  />
 
 ###
 
